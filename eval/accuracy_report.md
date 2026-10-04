@@ -1,0 +1,2 @@
+- prompt v1: LLM 74.0%, bot tag 72.0%, n=100
+- prompt v2: LLM 90.0%, bot tag 72.0%, n=100
