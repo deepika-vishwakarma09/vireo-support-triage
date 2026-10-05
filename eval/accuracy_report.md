@@ -1,0 +1,5 @@
+- prompt v1: LLM 74.0%, bot tag 72.0%, n=100
+- prompt v2: LLM 90.0%, bot tag 72.0%, n=100
+- prompt v3 on sample_labels.csv: LLM 98.0%, bot tag 72.0%, n=100
+- prompt v2 on test_labels.csv: LLM 90.0%, bot tag 74.0%, n=50
+- prompt v3 on test_labels.csv: LLM 90.0%, bot tag 74.0%, n=50

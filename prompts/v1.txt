@@ -1,0 +1,4 @@
+Classify each support ticket into one of these categories:
+{categories}
+
+Return JSON only: {"labels": [{"id": "<ticket id>", "category": "<category>"}]}

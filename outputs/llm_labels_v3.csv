@@ -1,0 +1,751 @@
+ticket_id,label
+TK-251138,Returns & Refunds
+TK-241245,App & Firmware
+TK-252147,Returns & Refunds
+TK-246425,Audio Quality
+TK-250318,Billing & Payments
+TK-249270,Connectivity
+TK-250581,Account & Login
+TK-242652,Delivery & Shipping
+TK-246763,Delivery & Shipping
+TK-251601,Connectivity
+TK-243874,Charging & Battery
+TK-248586,Connectivity
+TK-252241,Order Change & Cancellation
+TK-240428,Billing & Payments
+TK-245989,Delivery & Shipping
+TK-243048,Delivery & Shipping
+TK-252169,Order Change & Cancellation
+TK-245358,Billing & Payments
+TK-245054,Account & Login
+TK-247934,Delivery & Shipping
+TK-249580,Delivery & Shipping
+TK-249505,Connectivity
+TK-247285,Returns & Refunds
+TK-242686,App & Firmware
+TK-243880,Order Change & Cancellation
+TK-245122,Returns & Refunds
+TK-247975,Order Change & Cancellation
+TK-246310,Delivery & Shipping
+TK-246793,Delivery & Shipping
+TK-251013,Delivery & Shipping
+TK-246251,Delivery & Shipping
+TK-242294,Delivery & Shipping
+TK-247332,Delivery & Shipping
+TK-243877,Returns & Refunds
+TK-245287,Delivery & Shipping
+TK-247813,Audio Quality
+TK-244177,Connectivity
+TK-251406,Account & Login
+TK-249428,Connectivity
+TK-241252,Delivery & Shipping
+TK-243845,Delivery & Shipping
+TK-252356,Billing & Payments
+TK-252416,Delivery & Shipping
+TK-240818,Order Change & Cancellation
+TK-244451,Delivery & Shipping
+TK-250014,Billing & Payments
+TK-248767,Product Enquiry
+TK-245703,Connectivity
+TK-245844,Billing & Payments
+TK-245196,Product Enquiry
+TK-242350,Returns & Refunds
+TK-240624,Billing & Payments
+TK-243240,Returns & Refunds
+TK-246948,Audio Quality
+TK-253773,Product Enquiry
+TK-245769,Connectivity
+TK-247667,Returns & Refunds
+TK-251260,Delivery & Shipping
+TK-254106,Warranty & Repair
+TK-251119,Billing & Payments
+TK-250945,Connectivity
+TK-250608,Order Change & Cancellation
+TK-245870,Returns & Refunds
+TK-242233,Billing & Payments
+TK-253176,Audio Quality
+TK-247673,Product Enquiry
+TK-246000,Charging & Battery
+TK-245607,Delivery & Shipping
+TK-253424,App & Firmware
+TK-251786,Billing & Payments
+TK-247799,Account & Login
+TK-248825,Returns & Refunds
+TK-240305,Warranty & Repair
+TK-252342,App & Firmware
+TK-242940,Billing & Payments
+TK-253673,Order Change & Cancellation
+TK-242557,Order Change & Cancellation
+TK-240991,Delivery & Shipping
+TK-241929,Order Change & Cancellation
+TK-252790,Connectivity
+TK-246279,Returns & Refunds
+TK-244166,Connectivity
+TK-252354,App & Firmware
+TK-243068,App & Firmware
+TK-242547,Returns & Refunds
+TK-247811,Delivery & Shipping
+TK-254078,Delivery & Shipping
+TK-250289,Delivery & Shipping
+TK-240328,Order Change & Cancellation
+TK-254487,Delivery & Shipping
+TK-248225,Delivery & Shipping
+TK-241630,Delivery & Shipping
+TK-244694,Returns & Refunds
+TK-250471,Connectivity
+TK-244459,Returns & Refunds
+TK-253216,Connectivity
+TK-244092,Billing & Payments
+TK-248746,Charging & Battery
+TK-244331,Billing & Payments
+TK-244081,Charging & Battery
+TK-251061,Delivery & Shipping
+TK-251501,Billing & Payments
+TK-246849,App & Firmware
+TK-253533,Delivery & Shipping
+TK-253016,App & Firmware
+TK-244329,Product Enquiry
+TK-244392,Delivery & Shipping
+TK-251587,Returns & Refunds
+TK-248996,Connectivity
+TK-249455,Product Enquiry
+TK-251713,App & Firmware
+TK-243358,App & Firmware
+TK-244364,Billing & Payments
+TK-253815,Charging & Battery
+TK-247048,Returns & Refunds
+TK-248782,Audio Quality
+TK-252143,Delivery & Shipping
+TK-243583,Charging & Battery
+TK-245670,Product Enquiry
+TK-247035,Audio Quality
+TK-243841,Charging & Battery
+TK-242718,Delivery & Shipping
+TK-249892,Returns & Refunds
+TK-252030,Charging & Battery
+TK-240420,Delivery & Shipping
+TK-249562,Order Change & Cancellation
+TK-246197,Returns & Refunds
+TK-246528,Returns & Refunds
+TK-244468,Billing & Payments
+TK-249283,Account & Login
+TK-252376,Billing & Payments
+TK-252235,Billing & Payments
+TK-243952,Order Change & Cancellation
+TK-242015,Billing & Payments
+TK-247623,Connectivity
+TK-246321,Connectivity
+TK-248496,Delivery & Shipping
+TK-251332,Delivery & Shipping
+TK-249332,Connectivity
+TK-241669,Delivery & Shipping
+TK-244515,Delivery & Shipping
+TK-243109,Audio Quality
+TK-241671,Charging & Battery
+TK-241977,Delivery & Shipping
+TK-247177,Connectivity
+TK-247232,Product Enquiry
+TK-242737,Audio Quality
+TK-241978,Charging & Battery
+TK-246908,Order Change & Cancellation
+TK-241328,Delivery & Shipping
+TK-242097,Product Enquiry
+TK-241937,Billing & Payments
+TK-253500,Delivery & Shipping
+TK-251754,Connectivity
+TK-241001,Order Change & Cancellation
+TK-240457,Product Enquiry
+TK-254498,Delivery & Shipping
+TK-252190,Charging & Battery
+TK-247900,Delivery & Shipping
+TK-250643,Audio Quality
+TK-242304,Audio Quality
+TK-248631,Delivery & Shipping
+TK-252828,Billing & Payments
+TK-245507,Returns & Refunds
+TK-252704,Billing & Payments
+TK-249708,Connectivity
+TK-250100,Account & Login
+TK-250432,Account & Login
+TK-246536,Delivery & Shipping
+TK-244654,Connectivity
+TK-249161,Delivery & Shipping
+TK-250795,Connectivity
+TK-250333,Delivery & Shipping
+TK-253670,Billing & Payments
+TK-246066,Order Change & Cancellation
+TK-254428,Returns & Refunds
+TK-251196,App & Firmware
+TK-244991,Connectivity
+TK-251717,Billing & Payments
+TK-241034,INVALID
+TK-250152,Returns & Refunds
+TK-240494,App & Firmware
+TK-241547,Connectivity
+TK-244061,Returns & Refunds
+TK-253436,Connectivity
+TK-253258,Connectivity
+TK-254344,Delivery & Shipping
+TK-240586,Returns & Refunds
+TK-247932,Delivery & Shipping
+TK-248448,Connectivity
+TK-249217,Billing & Payments
+TK-246300,Billing & Payments
+TK-242155,Connectivity
+TK-240194,Delivery & Shipping
+TK-254018,App & Firmware
+TK-251454,Charging & Battery
+TK-240306,Audio Quality
+TK-252719,Product Enquiry
+TK-244666,Connectivity
+TK-252968,Delivery & Shipping
+TK-243975,Delivery & Shipping
+TK-246071,Delivery & Shipping
+TK-243962,Account & Login
+TK-252491,Product Enquiry
+TK-247158,Delivery & Shipping
+TK-245741,Returns & Refunds
+TK-248947,App & Firmware
+TK-252172,Billing & Payments
+TK-246659,Warranty & Repair
+TK-252737,Connectivity
+TK-250286,Connectivity
+TK-250417,Billing & Payments
+TK-242318,Delivery & Shipping
+TK-244683,Delivery & Shipping
+TK-253466,Delivery & Shipping
+TK-254671,Connectivity
+TK-246027,Connectivity
+TK-248520,Delivery & Shipping
+TK-251252,Order Change & Cancellation
+TK-253373,Product Enquiry
+TK-246544,Product Enquiry
+TK-250904,Other
+TK-254170,Delivery & Shipping
+TK-248614,Charging & Battery
+TK-240791,Billing & Payments
+TK-241263,Product Enquiry
+TK-241956,Delivery & Shipping
+TK-245186,Delivery & Shipping
+TK-243869,Order Change & Cancellation
+TK-247803,Delivery & Shipping
+TK-244305,Product Enquiry
+TK-246231,Billing & Payments
+TK-249734,Product Enquiry
+TK-244437,Order Change & Cancellation
+TK-251691,Charging & Battery
+TK-245834,Connectivity
+TK-247637,App & Firmware
+TK-246682,Product Enquiry
+TK-244664,Connectivity
+TK-250534,Returns & Refunds
+TK-254546,Billing & Payments
+TK-250121,Connectivity
+TK-241645,Audio Quality
+TK-241410,Delivery & Shipping
+TK-248791,Connectivity
+TK-241942,Billing & Payments
+TK-252731,Billing & Payments
+TK-248359,Connectivity
+TK-241801,Connectivity
+TK-249282,Delivery & Shipping
+TK-243985,Connectivity
+TK-254161,Delivery & Shipping
+TK-244089,Returns & Refunds
+TK-253145,Connectivity
+TK-251326,Charging & Battery
+TK-247729,Returns & Refunds
+TK-245680,Delivery & Shipping
+TK-242968,Delivery & Shipping
+TK-249525,Audio Quality
+TK-250358,Audio Quality
+TK-249593,Billing & Payments
+TK-253375,Connectivity
+TK-244498,Billing & Payments
+TK-244167,Connectivity
+TK-246487,App & Firmware
+TK-244414,Order Change & Cancellation
+TK-249836,Delivery & Shipping
+TK-249737,Order Change & Cancellation
+TK-246578,Product Enquiry
+TK-240970,Delivery & Shipping
+TK-251597,Audio Quality
+TK-245833,Order Change & Cancellation
+TK-246302,Warranty & Repair
+TK-251502,Order Change & Cancellation
+TK-248300,Returns & Refunds
+TK-241501,Order Change & Cancellation
+TK-249088,Connectivity
+TK-251090,Account & Login
+TK-244884,Billing & Payments
+TK-244123,Returns & Refunds
+TK-253499,App & Firmware
+TK-246730,Order Change & Cancellation
+TK-243314,Billing & Payments
+TK-253502,Order Change & Cancellation
+TK-253019,Billing & Payments
+TK-246547,Delivery & Shipping
+TK-242073,Charging & Battery
+TK-252410,Charging & Battery
+TK-254595,Order Change & Cancellation
+TK-249433,Product Enquiry
+TK-241675,Returns & Refunds
+TK-242161,Order Change & Cancellation
+TK-240753,Account & Login
+TK-247545,Billing & Payments
+TK-243430,Warranty & Repair
+TK-242358,Connectivity
+TK-251238,Billing & Payments
+TK-247355,Product Enquiry
+TK-254009,Warranty & Repair
+TK-254563,Connectivity
+TK-242080,Delivery & Shipping
+TK-241750,Product Enquiry
+TK-252887,Connectivity
+TK-246663,Charging & Battery
+TK-243294,Delivery & Shipping
+TK-248208,Connectivity
+TK-242312,Returns & Refunds
+TK-245905,Returns & Refunds
+TK-247741,Connectivity
+TK-247670,Delivery & Shipping
+TK-252135,Delivery & Shipping
+TK-244278,Delivery & Shipping
+TK-244300,Delivery & Shipping
+TK-245615,Audio Quality
+TK-240566,Delivery & Shipping
+TK-250009,Account & Login
+TK-245964,Billing & Payments
+TK-247406,Product Enquiry
+TK-241983,Returns & Refunds
+TK-250473,Billing & Payments
+TK-249101,Connectivity
+TK-248284,Order Change & Cancellation
+TK-248537,Connectivity
+TK-249286,Delivery & Shipping
+TK-248146,Returns & Refunds
+TK-243024,App & Firmware
+TK-252092,Billing & Payments
+TK-242806,Product Enquiry
+TK-250391,Billing & Payments
+TK-240432,Audio Quality
+TK-247134,Billing & Payments
+TK-242024,Billing & Payments
+TK-251994,Order Change & Cancellation
+TK-243636,Connectivity
+TK-248338,Charging & Battery
+TK-254031,Audio Quality
+TK-245309,Returns & Refunds
+TK-248980,Charging & Battery
+TK-250506,Billing & Payments
+TK-253934,Delivery & Shipping
+TK-244750,Product Enquiry
+TK-244059,Delivery & Shipping
+TK-243881,Charging & Battery
+TK-253214,Delivery & Shipping
+TK-247601,Delivery & Shipping
+TK-242092,Delivery & Shipping
+TK-246498,Audio Quality
+TK-240926,Delivery & Shipping
+TK-244120,Delivery & Shipping
+TK-242309,Connectivity
+TK-250010,Connectivity
+TK-248887,Audio Quality
+TK-247700,Billing & Payments
+TK-248205,Returns & Refunds
+TK-244310,Charging & Battery
+TK-242342,Delivery & Shipping
+TK-240450,Delivery & Shipping
+TK-240757,Billing & Payments
+TK-254587,App & Firmware
+TK-242509,Billing & Payments
+TK-249089,Other
+TK-248599,Order Change & Cancellation
+TK-252792,App & Firmware
+TK-252291,App & Firmware
+TK-249478,Returns & Refunds
+TK-241729,Billing & Payments
+TK-253612,Delivery & Shipping
+TK-246651,Billing & Payments
+TK-244874,Delivery & Shipping
+TK-247558,Audio Quality
+TK-251926,Product Enquiry
+TK-241144,Audio Quality
+TK-254118,Connectivity
+TK-253273,Connectivity
+TK-252827,Delivery & Shipping
+TK-252644,Audio Quality
+TK-244230,Connectivity
+TK-242228,Delivery & Shipping
+TK-254297,Charging & Battery
+TK-248073,Warranty & Repair
+TK-249615,Charging & Battery
+TK-244936,Product Enquiry
+TK-253021,Returns & Refunds
+TK-246135,Charging & Battery
+TK-250662,Order Change & Cancellation
+TK-251074,Charging & Battery
+TK-251081,Product Enquiry
+TK-241810,Delivery & Shipping
+TK-253183,Account & Login
+TK-245807,Connectivity
+TK-250392,Billing & Payments
+TK-240401,Billing & Payments
+TK-249851,App & Firmware
+TK-242809,Delivery & Shipping
+TK-243184,Billing & Payments
+TK-240890,Account & Login
+TK-253107,Billing & Payments
+TK-254295,Delivery & Shipping
+TK-243863,Delivery & Shipping
+TK-243852,Warranty & Repair
+TK-243965,Delivery & Shipping
+TK-254218,Charging & Battery
+TK-248046,Charging & Battery
+TK-252287,Returns & Refunds
+TK-240200,Billing & Payments
+TK-242836,Warranty & Repair
+TK-254625,Delivery & Shipping
+TK-241066,Delivery & Shipping
+TK-250545,Billing & Payments
+TK-251536,App & Firmware
+TK-249508,Order Change & Cancellation
+TK-242640,Delivery & Shipping
+TK-243265,Delivery & Shipping
+TK-244471,App & Firmware
+TK-253537,Connectivity
+TK-244013,Delivery & Shipping
+TK-243746,Connectivity
+TK-248013,Delivery & Shipping
+TK-250727,Delivery & Shipping
+TK-244731,Order Change & Cancellation
+TK-247522,App & Firmware
+TK-244368,Delivery & Shipping
+TK-251032,Charging & Battery
+TK-244530,Charging & Battery
+TK-251652,Delivery & Shipping
+TK-241333,Charging & Battery
+TK-250911,Returns & Refunds
+TK-250327,Connectivity
+TK-247615,Delivery & Shipping
+TK-248000,Charging & Battery
+TK-243415,Charging & Battery
+TK-254196,Billing & Payments
+TK-246126,Billing & Payments
+TK-244752,Delivery & Shipping
+TK-246742,Billing & Payments
+TK-250107,Delivery & Shipping
+TK-249635,Delivery & Shipping
+TK-240615,Audio Quality
+TK-240313,Returns & Refunds
+TK-245605,Order Change & Cancellation
+TK-244971,Returns & Refunds
+TK-253289,App & Firmware
+TK-249758,Audio Quality
+TK-245246,Billing & Payments
+TK-242747,App & Firmware
+TK-248679,Returns & Refunds
+TK-243448,App & Firmware
+TK-251992,Returns & Refunds
+TK-246594,Billing & Payments
+TK-254376,Delivery & Shipping
+TK-251150,Returns & Refunds
+TK-242166,Delivery & Shipping
+TK-252698,Delivery & Shipping
+TK-246527,Delivery & Shipping
+TK-248517,Delivery & Shipping
+TK-250670,Connectivity
+TK-245251,Account & Login
+TK-254252,Delivery & Shipping
+TK-253590,Billing & Payments
+TK-242360,Charging & Battery
+TK-249881,App & Firmware
+TK-250619,Returns & Refunds
+TK-253788,Delivery & Shipping
+TK-244137,Delivery & Shipping
+TK-245755,Billing & Payments
+TK-245682,Order Change & Cancellation
+TK-248867,Connectivity
+TK-252847,Order Change & Cancellation
+TK-253702,Product Enquiry
+TK-249321,Delivery & Shipping
+TK-240766,Billing & Payments
+TK-247292,Delivery & Shipping
+TK-243136,Returns & Refunds
+TK-253175,Delivery & Shipping
+TK-246334,App & Firmware
+TK-251277,Delivery & Shipping
+TK-243921,Delivery & Shipping
+TK-245470,Billing & Payments
+TK-242932,Charging & Battery
+TK-251506,Billing & Payments
+TK-248710,Delivery & Shipping
+TK-251931,Delivery & Shipping
+TK-253243,Returns & Refunds
+TK-250542,Billing & Payments
+TK-250440,Delivery & Shipping
+TK-245739,Warranty & Repair
+TK-245528,Product Enquiry
+TK-250843,Billing & Payments
+TK-243649,Product Enquiry
+TK-245052,Billing & Payments
+TK-252803,Billing & Payments
+TK-244824,Connectivity
+TK-243495,App & Firmware
+TK-251952,Delivery & Shipping
+TK-240854,Delivery & Shipping
+TK-242212,Delivery & Shipping
+TK-243898,Charging & Battery
+TK-244502,Returns & Refunds
+TK-249129,Product Enquiry
+TK-245409,Order Change & Cancellation
+TK-240565,Billing & Payments
+TK-248663,Account & Login
+TK-240501,Delivery & Shipping
+TK-249770,Connectivity
+TK-246505,Billing & Payments
+TK-240680,App & Firmware
+TK-254473,Connectivity
+TK-241117,Billing & Payments
+TK-252350,Product Enquiry
+TK-249159,Account & Login
+TK-245290,Connectivity
+TK-248217,Audio Quality
+TK-250760,Charging & Battery
+TK-249343,Order Change & Cancellation
+TK-243911,Billing & Payments
+TK-252315,App & Firmware
+TK-242658,Connectivity
+TK-252788,Other
+TK-241962,Delivery & Shipping
+TK-253265,Returns & Refunds
+TK-253483,Charging & Battery
+TK-241363,Returns & Refunds
+TK-248394,Connectivity
+TK-241656,Delivery & Shipping
+TK-250504,Connectivity
+TK-241884,Delivery & Shipping
+TK-254420,Connectivity
+TK-252213,Billing & Payments
+TK-251174,Account & Login
+TK-254111,Delivery & Shipping
+TK-248932,Billing & Payments
+TK-251371,Returns & Refunds
+TK-242071,Delivery & Shipping
+TK-249549,Returns & Refunds
+TK-242334,Connectivity
+TK-251712,Delivery & Shipping
+TK-252444,Returns & Refunds
+TK-246427,Charging & Battery
+TK-242175,Billing & Payments
+TK-244250,Delivery & Shipping
+TK-249697,Order Change & Cancellation
+TK-244404,Delivery & Shipping
+TK-249712,Returns & Refunds
+TK-253114,App & Firmware
+TK-245144,Audio Quality
+TK-253131,Returns & Refunds
+TK-240330,Product Enquiry
+TK-247821,Returns & Refunds
+TK-245111,App & Firmware
+TK-247110,Delivery & Shipping
+TK-243383,Connectivity
+TK-243272,Charging & Battery
+TK-246159,Product Enquiry
+TK-253280,Delivery & Shipping
+TK-254130,Billing & Payments
+TK-244719,Delivery & Shipping
+TK-244852,Returns & Refunds
+TK-248898,Order Change & Cancellation
+TK-242195,Delivery & Shipping
+TK-245403,Charging & Battery
+TK-250861,Billing & Payments
+TK-250052,Order Change & Cancellation
+TK-241945,Billing & Payments
+TK-250301,Account & Login
+TK-240660,Billing & Payments
+TK-245596,Billing & Payments
+TK-242455,Returns & Refunds
+TK-253781,Account & Login
+TK-247578,Delivery & Shipping
+TK-252334,Delivery & Shipping
+TK-248935,Billing & Payments
+TK-254262,Billing & Payments
+TK-250529,Billing & Payments
+TK-243319,Connectivity
+TK-242530,Delivery & Shipping
+TK-242681,Audio Quality
+TK-253417,Returns & Refunds
+TK-244972,Delivery & Shipping
+TK-246733,Returns & Refunds
+TK-243894,Billing & Payments
+TK-249183,Returns & Refunds
+TK-244248,Delivery & Shipping
+TK-246033,Returns & Refunds
+TK-245928,Billing & Payments
+TK-241121,Connectivity
+TK-251942,Connectivity
+TK-248442,Connectivity
+TK-252845,Order Change & Cancellation
+TK-243431,Delivery & Shipping
+TK-251474,Charging & Battery
+TK-253302,Connectivity
+TK-241458,Delivery & Shipping
+TK-251758,App & Firmware
+TK-247400,Delivery & Shipping
+TK-246560,Order Change & Cancellation
+TK-242313,Billing & Payments
+TK-250708,Connectivity
+TK-240219,Billing & Payments
+TK-248726,Connectivity
+TK-253379,Delivery & Shipping
+TK-246768,Billing & Payments
+TK-252542,Charging & Battery
+TK-245090,Account & Login
+TK-252175,Billing & Payments
+TK-240239,Charging & Battery
+TK-245953,Account & Login
+TK-254354,Connectivity
+TK-247128,Delivery & Shipping
+TK-242860,Account & Login
+TK-244113,Account & Login
+TK-252072,Billing & Payments
+TK-248901,Order Change & Cancellation
+TK-250082,Charging & Battery
+TK-253540,Delivery & Shipping
+TK-242264,Order Change & Cancellation
+TK-249740,Billing & Payments
+TK-242052,Returns & Refunds
+TK-243860,Returns & Refunds
+TK-253187,Billing & Payments
+TK-246085,Product Enquiry
+TK-244219,Delivery & Shipping
+TK-252574,Connectivity
+TK-243977,Audio Quality
+TK-243303,Returns & Refunds
+TK-252936,Billing & Payments
+TK-244369,Billing & Payments
+TK-250536,Returns & Refunds
+TK-249981,Billing & Payments
+TK-244482,Warranty & Repair
+TK-244878,Billing & Payments
+TK-253642,Product Enquiry
+TK-244324,Charging & Battery
+TK-240367,Order Change & Cancellation
+TK-244043,Billing & Payments
+TK-242749,Delivery & Shipping
+TK-241406,Billing & Payments
+TK-240826,Order Change & Cancellation
+TK-245030,App & Firmware
+TK-254093,Billing & Payments
+TK-246003,Billing & Payments
+TK-248052,Returns & Refunds
+TK-252290,Returns & Refunds
+TK-244011,Charging & Battery
+TK-251867,Delivery & Shipping
+TK-244689,Billing & Payments
+TK-250112,Product Enquiry
+TK-244577,Returns & Refunds
+TK-253692,Billing & Payments
+TK-247554,Billing & Payments
+TK-250638,Delivery & Shipping
+TK-245028,App & Firmware
+TK-244085,Billing & Payments
+TK-241357,Delivery & Shipping
+TK-248326,Returns & Refunds
+TK-251797,Delivery & Shipping
+TK-246072,Delivery & Shipping
+TK-252924,Audio Quality
+TK-247203,Connectivity
+TK-247485,Delivery & Shipping
+TK-244541,Audio Quality
+TK-244008,Other
+TK-252120,Billing & Payments
+TK-254651,Audio Quality
+TK-251542,Connectivity
+TK-249597,Billing & Payments
+TK-253297,Delivery & Shipping
+TK-243043,Returns & Refunds
+TK-248733,Delivery & Shipping
+TK-243372,Billing & Payments
+TK-254356,Delivery & Shipping
+TK-245537,Delivery & Shipping
+TK-249936,Order Change & Cancellation
+TK-250251,Audio Quality
+TK-247864,Audio Quality
+TK-251082,Delivery & Shipping
+TK-247851,Billing & Payments
+TK-252411,Delivery & Shipping
+TK-250478,Returns & Refunds
+TK-247614,Delivery & Shipping
+TK-253840,Connectivity
+TK-244621,Billing & Payments
+TK-245771,Charging & Battery
+TK-249915,Connectivity
+TK-254385,App & Firmware
+TK-251991,Delivery & Shipping
+TK-246701,Delivery & Shipping
+TK-248485,Delivery & Shipping
+TK-247283,Delivery & Shipping
+TK-240596,Delivery & Shipping
+TK-244000,Delivery & Shipping
+TK-243524,Billing & Payments
+TK-242114,Account & Login
+TK-244243,Returns & Refunds
+TK-254314,Returns & Refunds
+TK-248695,Delivery & Shipping
+TK-252414,Connectivity
+TK-246923,Charging & Battery
+TK-250166,Charging & Battery
+TK-241006,Order Change & Cancellation
+TK-242645,Product Enquiry
+TK-246564,Delivery & Shipping
+TK-244441,App & Firmware
+TK-251169,App & Firmware
+TK-251181,Audio Quality
+TK-247796,Connectivity
+TK-250197,Billing & Payments
+TK-240231,App & Firmware
+TK-253546,Warranty & Repair
+TK-248421,Warranty & Repair
+TK-245389,App & Firmware
+TK-251493,Charging & Battery
+TK-246642,Order Change & Cancellation
+TK-251561,Delivery & Shipping
+TK-242990,App & Firmware
+TK-251688,Connectivity
+TK-248060,Delivery & Shipping
+TK-247229,Order Change & Cancellation
+TK-244678,Connectivity
+TK-247844,Delivery & Shipping
+TK-249210,Billing & Payments
+TK-249075,Connectivity
+TK-254189,Returns & Refunds
+TK-250881,Delivery & Shipping
+TK-249309,Delivery & Shipping
+TK-242093,Delivery & Shipping
+TK-242954,Returns & Refunds
+TK-244351,Delivery & Shipping
+TK-240351,Audio Quality
+TK-253374,Order Change & Cancellation
+TK-241991,Delivery & Shipping
+TK-240582,Connectivity
+TK-252440,Returns & Refunds
+TK-252317,Billing & Payments
+TK-249864,Billing & Payments
+TK-252480,Charging & Battery
+TK-243959,Charging & Battery
+TK-252306,Billing & Payments
+TK-243744,Delivery & Shipping
+TK-245663,Billing & Payments
+TK-244585,Returns & Refunds
+TK-247501,Warranty & Repair
+TK-254328,Billing & Payments
+TK-243354,Delivery & Shipping
+TK-250474,Other
+TK-252090,Audio Quality
+TK-254565,Charging & Battery
+TK-251219,Delivery & Shipping
+TK-250475,Audio Quality
+TK-252761,Product Enquiry
+TK-244147,Billing & Payments

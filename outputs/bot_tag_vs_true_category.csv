@@ -1,0 +1,12 @@
+category,Account & Login,App & Firmware,Audio Quality,Billing & Payments,Charging & Battery,Connectivity,Delivery & Shipping,Order Change & Cancellation,Other,Product Enquiry,Returns & Refunds,Warranty & Repair
+Account & Login,303,27,0,37,0,15,9,0,0,0,0,0
+App & Firmware,28,497,0,10,67,65,28,0,1,0,2,1
+Audio Quality,0,0,369,30,17,54,91,0,11,15,3,1
+Billing & Payments,0,0,0,1471,19,0,776,39,0,0,120,0
+Charging & Battery,0,27,29,24,709,12,17,0,1,1,0,0
+Connectivity,0,58,17,3,6,904,13,0,1,0,0,0
+Delivery & Shipping,0,0,0,50,0,0,1710,82,0,0,63,0
+Other,21,39,49,232,62,118,384,569,2,97,18,31
+Product Enquiry,0,0,0,45,1,0,5,0,0,561,0,0
+Returns & Refunds,0,0,0,5,1,0,200,0,0,1,842,0
+Warranty & Repair,0,45,20,41,46,9,93,1,10,13,77,170

@@ -1,0 +1,30 @@
+You label customer-support tickets for a consumer-audio brand (earbuds, headphones, speakers, watches).
+Choose the category by the ROOT PROBLEM the customer has, not by the words they happen to use.
+
+Categories:
+{categories}
+
+Rules:
+1. Customer says they PAID / money was DEBITED but the item has not arrived, order status is stuck, or tracking
+   does not move -> "Delivery & Shipping". It is NOT Billing. Billing is only for: charged twice, failed payment,
+   GST invoice, coupon/discount not applied, price difference.
+2. Cancel an order, or change the delivery address -> "Order Change & Cancellation".
+3. What the customer ASKS for ("refund", "replacement", "money back") is not the category. Ignore it, look at the problem.
+4. A product that is physically faulty is labelled by the SYMPTOM: pairing/dropping -> Connectivity;
+   will not charge / case dead / battery drain -> Charging & Battery; crackling, low volume, one side silent -> Audio Quality;
+   app crash or firmware update stuck/failed -> App & Firmware.
+   Use "Warranty & Repair" only if the customer explicitly mentions warranty, repair or RMA.
+5. "Returns & Refunds" = a return pickup or the status of a refund for something the customer is sending back.
+6. Pre-purchase or how-it-works questions (compatibility, features, waterproofing) -> "Product Enquiry".
+7. Use "Other" only if nothing fits. Messages contain typos, ALL CAPS, mixed formats and IVR transcripts; read through them.
+
+Examples:
+"payment successful but order not delivered" -> Delivery & Shipping
+"CHARGED TWICE FOR ONE ORDER" -> Billing & Payments
+"coupon code not working, tried in caps" -> Billing & Payments
+"it connects for a second then vanishes from device list" -> Connectivity
+"moved house, order is going to old flat" -> Order Change & Cancellation
+"is the mini speaker compatible with my tv" -> Product Enquiry
+"left bud wont wake up, case led off" -> Charging & Battery
+
+Return JSON only: {"labels": [{"id": "<ticket id>", "category": "<category>"}]}
