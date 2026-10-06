@@ -12,12 +12,22 @@ Needs Python 3.10 or newer.
 git clone https://github.com/deepika-vishwakarma09/vireo-support-triage.git
 cd vireo-support-triage
 python -m venv venv
-venv\Scripts\activate          # Mac/Linux: source venv/bin/activate
+.\venv\Scripts\Activate.ps1          # Mac/Linux: source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Put the five client CSVs in `data/raw/` with exactly these names (they hold customer data, so they are not in the repo):
-`tickets.csv`, `agents.csv`, `orders.csv`, `customers.csv`, `products.csv`
+## Input data
+
+The five client-provided CSVs are intentionally excluded from this repository
+because they contain customer/support data.
+
+Before running the pipeline, place these files in `data/raw/`:
+
+- tickets.csv
+- agents.csv
+- orders.csv
+- customers.csv
+- products.csv
 
 ```bash
 python run.py
@@ -65,6 +75,16 @@ eval/                 hand-checked labels (dev set and held-out set) and error l
 outputs/              tables, findings.txt, charts/, cached LLM labels, token usage
 docs/                 memo, decisions, handoff notes, AI usage log
 ```
+
+## Main outputs
+
+After a successful run:
+
+- `outputs/findings.txt` — key business findings
+- `outputs/team_load.csv` — team workload
+- `outputs/monthly_by_bot_category.csv` — monthly category volume
+- `outputs/monthly_by_resolving_team.csv` — monthly resolving-team volume
+- `outputs/charts/` — generated charts
 
 ## Read next
 
