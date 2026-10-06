@@ -54,7 +54,7 @@ I used Claude (chat) for planning, exploring the data, writing the pipeline code
 
 ---
 
-**Your Public Google Drive Link:**
+**Public Google Drive Link:**
 https://drive.google.com/file/d/1fT5CQsr1GWSN2UgqMYE3ZDi79pw3UwbG/view?usp=sharing
 
 ---
